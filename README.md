@@ -1,6 +1,6 @@
-# レンガ戦車隊 サポート
+# レンガ工兵 サポート
 
-iOS アプリ「レンガ戦車隊」のサポートページとプライバシーポリシー（GitHub Pages で公開）。
+iOS アプリ「レンガ工兵」のサポートページとプライバシーポリシー（GitHub Pages で公開）。
 
 - サポート: https://kazuma-osawa.github.io/rengatank-support/
 - プライバシーポリシー: https://kazuma-osawa.github.io/rengatank-support/privacy.html
